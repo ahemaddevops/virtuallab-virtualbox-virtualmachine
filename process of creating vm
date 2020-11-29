@@ -1,1 +1,9 @@
 #Process of creating Virtual Box
+Download Virtual box from https://www.virtualbox.org/wiki/Downloads
+Install
+Create Virtual Machine
+Provide Virtual Machine Name
+Select OS as Linux and platform as Ubuntu
+Allocate Memory Size 1GB
+Create Virtual Hard Disk 
+Allocate Hard Disk Size as 10 GB and disk type of Image
